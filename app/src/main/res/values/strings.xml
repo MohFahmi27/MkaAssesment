@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MkaAssesment</string>
+    <string name="profile">profile</string>
+    <string name="detail_profile">Detail Profile</string>
+    <string name="description_main_format">%s…</string>
+    <string name="username_format">\@ %s</string>
+    <string name="updated_format">Updated at %s</string>
+    <string name="following_format">%d <b>Following</b></string>
+    <string name="followers_format">%d <b>Followers</b></string>
+    <string name="divider">•</string>
+</resources>
